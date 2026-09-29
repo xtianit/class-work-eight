@@ -1,14 +1,11 @@
 .heading{
-    color: white;
     background-color: black;
 }
 .details{
-    color: white;
     background-color:blue ;
 }
 
 .concentration{
-    color: white;
     background-color: blue;
 }
 .heading, .details, .concentration{
@@ -16,4 +13,7 @@
 }
 .concentration{
     list-style: none;
+}
+*{
+   color: red; 
 }
