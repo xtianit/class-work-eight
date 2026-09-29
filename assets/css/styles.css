@@ -1,0 +1,19 @@
+.heading{
+    color: white;
+    background-color: black;
+}
+.details{
+    color: white;
+    background-color:blue ;
+}
+
+.concentration{
+    color: white;
+    background-color: blue;
+}
+.heading, .details, .concentration{
+    text-align: center;
+}
+.concentration{
+    list-style: none;
+}
